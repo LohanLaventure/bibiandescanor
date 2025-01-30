@@ -105,7 +105,7 @@ document.addEventListener("DOMContentLoaded", () => {
         content.innerHTML = `
             <div class="image-container">
                 <img src="rose.png" alt="Rose">
-                <div class="text">[mensagem substituida pq o wilson pediu, mas eu pedia minha namorada em casamento na época]</div>
+                <div class="text">mensagem substituida pq o wilson pediu, mas eu pedia minha namorada em casamento na época</div>
             </div>
         `;
     }
